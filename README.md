@@ -229,3 +229,4 @@ This project demonstrates a fully working Agentic AI Tutor architecture with:
 - Student progress analytics  
 - Planner-driven multi-step actions  
 
+## 11. Deployed Link: https://ai-tutor-4ask9vxskiydmvzvr5jybj.streamlit.app/
